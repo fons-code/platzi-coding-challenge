@@ -1,0 +1,20 @@
+{
+  "name": "platzi-coding-challenge",
+  "version": "1.0.0",
+  "description": "Todos los desafíos del #PlatziCodingChallenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fons-code/platzi-coding-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fons-code/platzi-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/fons-code/platzi-coding-challenge#readme"
+}
